@@ -6,5 +6,8 @@ echo "number variables passed to script: $#"
 
 echo "script name: $0"
 
+echo "current working directory name: $PWD"
+
+
 
 
