@@ -8,7 +8,8 @@ echo "script name: $0"
 
 echo "current working directory name: $PWD"
  echo "home directory of current user: $HOME"
- 
+   echo "process instance ID of current script execution: $$"
+   
 
 
 
