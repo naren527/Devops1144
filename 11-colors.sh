@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "hello world"
+R=\e[31m
+
+echo "hello world -e $R"
