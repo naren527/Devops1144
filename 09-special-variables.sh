@@ -2,5 +2,9 @@
 
 echo "All variables passed to the script: $@"
 
-echo "how many variables passed to script: $#"
+echo "number variables passed to script: $#"
+
+echo "script name: $0"
+
+
 
