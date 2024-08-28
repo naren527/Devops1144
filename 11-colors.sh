@@ -2,4 +2,4 @@
 
 R=\e[31m
 
-echo "hello world -e $R"
+echo "hello world: -e $R"
